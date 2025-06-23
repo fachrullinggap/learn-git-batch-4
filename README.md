@@ -2,4 +2,4 @@
 
 This is a repository for learning git of Sinau Coding Academy batch 4 Fullstack
 
-ini saya buat di local
+Ini perubahan dari remote repo github
